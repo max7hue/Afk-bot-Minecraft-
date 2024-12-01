@@ -65,4 +65,5 @@ yarn
 ```
 start comamnd;
 ```javascript
-pn
+pnpm run start
+```
