@@ -42,3 +42,27 @@ Please star this project <3
 Finally... DONE! Enjoy your free 24/7 Aternos server.
 
 ```javascript
+{
+	"client": {
+		"host": "YOR_IP_OD_YOUR_SERVER",
+		"port": "YOUR_PORT_OF_YUR_SERVER_HERE",
+		"username": "Kazuto_BoT7"//Change the user name of the bor make sure has "_"
+	},
+	
+	"! DO NOT EDIT BELOW !": "ONLY IF YOU KNOW WHAT YOU ARE DOING",
+	"logLevel": ["error", "log", "debug"],
+	"action": {
+		"commands": ["forward", "back", "left", "right", "jump"],
+		"holdDuration": 5000,
+		"retryDelay": 15000
+	}
+}
+```
+# Run it on Render
+build comamnd;
+```javascript
+yarn
+```
+start comamnd;
+```javascript
+pn
