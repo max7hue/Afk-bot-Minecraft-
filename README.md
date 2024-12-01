@@ -12,8 +12,8 @@ Please star this project <3
 
 
 # Requirements 🎒
-1. A Replit account.  
-	Sign up at: https://replit.com/signup
+1. A render account.  
+	Sign up at: dashboard.render.com
 
 2. An UptimeRobot account.  
 	Sign up at: https://uptimerobot.com/signUp
