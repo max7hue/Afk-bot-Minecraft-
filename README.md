@@ -42,7 +42,7 @@ Please star this project <3
 Finally... DONE! Enjoy your free 24/7 Aternos server.
 
 
-#Edit the config.json
+# Edit the config.json
 
 ```javascript
 {
